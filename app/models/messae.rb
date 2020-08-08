@@ -1,0 +1,2 @@
+class Messae < ApplicationRecord
+end
